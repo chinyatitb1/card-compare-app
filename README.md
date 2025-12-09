@@ -37,6 +37,7 @@ Built with [Streamlit](https://streamlit.io/) and developed by **Tinashe Chinyat
 1. Clone the repo:
 
    ```bash
-   git clone [https://github.com/<your-username>/smartcard-compare-app.git](https://github.com/chinyatitb1/card-compare-app.git)
+   git clone https://github.com/chinyatitb1/card-compare-app.git
    cd smartcard-compare-app
+
 
